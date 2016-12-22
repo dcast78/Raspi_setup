@@ -9,4 +9,3 @@ raspi-config
 apt-get update
 apt-get upgrade
 
-#test
